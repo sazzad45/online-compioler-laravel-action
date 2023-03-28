@@ -52,7 +52,7 @@ chmod -R 777 Online-Compiler
 
 
 ```
-Type http://localhost/Online-Compiler/ from your Browser. Done!!
+Type http://localhost/Online-Compiler/ from your Browser. Done!
 
 ```
 
